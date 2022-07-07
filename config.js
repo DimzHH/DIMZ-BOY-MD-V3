@@ -41,11 +41,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
+global.owner = ['6283831717202'] //ur owner number
 global.ownername = "𝑂͢𝐺𝐺𝑌⇄𝑆𝛴𝛤"
 global.ytname = "YT: 𝑺𝒉𝒊𝒛𝒖𝒌𝒂ᑉᶟ" //ur yt chanel name
-global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
-global.location = "India, Kerala, Idukki" //ur location
+global.socialm = "GitHub: DimzHH" //ur github or insta name
+global.location = "Indonesia, Jawa timur, Banyuwangi" //ur location
 
 //bot bombdy
 global.botname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur bot name
@@ -54,13 +54,13 @@ global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫"
 global.author = "𝑂͢𝐺𝐺𝑌⇄𝑆𝛴𝛤"
 global.themeemoji = "❏"
-global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
+global.reactmoji = "🌚"
+global.ownertag = ['6283831717202'] //ur owner tag
+global.ownernummenu = ['6283831717202'] //ur owner number in menu and all
 global.watermark = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur watermark
-global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.botscript = "https://github.com/DimzHH/DIMZ-BOY-MD-V3"
+global.linkz1 = "https://chat.whatsapp.com/ByTXrvAsVD89mGHy4i1Wu2"
+global.linkz2 = "https://chat.whatsapp.com/BAWiSyIHWSeCjA8CEQ8rCQ"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,15 +94,15 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: '𝑫𝒐𝒏𝒆 ✓',
-    admin: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒂𝒅𝒎𝒊𝒏𝒔!',
-    botAdmin: '𝑩𝒐𝒕 𝑴𝒖𝒔𝒕 𝑩𝒆 𝑨𝒅𝒎𝒊𝒏 𝑭𝒊𝒓𝒔𝒕!',
-    owner: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒐𝒘𝒏𝒆𝒓',
-    group: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒈𝒓𝒐𝒖𝒑𝒔!',
-    private: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒑𝒓𝒊𝒗𝒂𝒕𝒆 𝒄𝒉𝒂𝒕𝒔!',
-    bot: '𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒃𝒐𝒕',
-    wait: '𝑰𝒏 𝒑𝒓𝒐𝒄𝒆𝒔𝒔...',
-    linkm: '𝑾𝒉𝒆𝒓𝒆 𝒊𝒔 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌?',
+    success: '𝓝𝓲𝓱 𝓫𝓪𝓷𝓰 ✓',
+    admin: '𝓜𝓮𝓷𝓾 𝓲𝓷𝓲 𝓱𝓪𝓷𝔂𝓪 𝓾𝓷𝓽𝓾𝓴 𝓪𝓭𝓶𝓲𝓷!',
+    botAdmin: '𝓑𝓸𝓽 𝓱𝓪𝓻𝓾𝓼 𝓳𝓪𝓭𝓲 𝓪𝓭𝓶𝓲𝓷 𝓭𝓾𝓵𝓾!',
+    owner: '𝓜𝓮𝓷𝓾 𝓲𝓷𝓲 𝓾𝓷𝓽𝓾𝓴 𝓸𝔀𝓷𝓮𝓻 𝓫𝓪𝓷𝓰',
+    group: '𝓜𝓮𝓷𝓾 𝓲𝓷𝓲 𝓫𝓾𝓪𝓽 𝓰𝓻𝓾𝓹 𝓫𝓪𝓷𝓰!',
+    private: '𝓜𝓮𝓷𝓾 𝓲𝓷𝓲 𝓾𝓷𝓽𝓾𝓴 𝓬𝓱𝓪𝓽 𝓹𝓻𝓲𝓫𝓪𝓭𝓲 𝓫𝓪𝓷𝓰!',
+    bot: '𝓜𝓮𝓷𝓾 𝓲𝓷𝓲 𝓾𝓷𝓽𝓾𝓴 𝓫𝓸𝓽 𝓫𝓪𝓷𝓰',
+    wait: '𝓑𝓮𝓷𝓽𝓪𝓻 𝔂𝓮 𝓫𝓪𝓷𝓰...',
+    linkm: '𝓛𝓲𝓷𝓴 𝓪𝓹𝓪𝓪𝓷 𝓷𝓲𝓬𝓱?',
     error: '𝑬𝒓𝒓𝒐𝒓!',
     ban: '𝒀𝒐𝒖 𝒉𝒂𝒗𝒆 𝒃𝒆𝒆𝒏 𝒃𝒂𝒏𝒏𝒆𝒅 𝒃𝒚 𝒕𝒉𝒆 𝒐𝒘𝒏𝒆𝒓, 𝒊𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒃𝒆 𝒖𝒏𝒃𝒂𝒏𝒏𝒆𝒅, 𝒄𝒉𝒂𝒕 𝒐𝒘𝒏𝒆𝒓.',
     nsfw: '𝑻𝒉𝒆 𝒏𝒔𝒇𝒘 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒉𝒂𝒔 𝒏𝒐𝒕 𝒃𝒆𝒆𝒏 𝒂𝒄𝒕𝒊𝒗𝒂𝒕𝒆𝒅, 𝒑𝒍𝒆𝒂𝒔𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒕𝒉𝒆 𝒂𝒅𝒎𝒊𝒏 𝒕𝒐 𝒂𝒄𝒕𝒊𝒗𝒂𝒕𝒆',
