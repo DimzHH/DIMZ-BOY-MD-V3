@@ -158,7 +158,7 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─♬
-│「 𝙔𝙖𝙝 𝙗𝙚𝙗𝙖𝙣 𝙜𝙧𝙪𝙥 𝙣𝙖𝙢𝙗𝙖𝙝 𝙙𝙚𝙝🗿 」
+│「 𝑯𝒊 𝒋𝒂𝒏𝒈𝒂𝒏 𝒔𝒉𝒂𝒓𝒆 𝒍𝒊𝒏𝒌 𝒚𝒂! 」
 └┬♬ 「 @${xeonName.split("@")[0]}  」
    │❏  𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 
    │⚘  ${metadata.subject}
@@ -166,14 +166,14 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    │⚘ ${xmembers}th
    │❏  𝑱𝒐𝒊𝒏𝒆𝒅 : 
    │⚘ ${xtime} ${xdate}
-   │❏ 𝑀𝑎𝑘𝑎𝑠𝑖ℎ 𝑑𝑎ℎ 𝑗𝑜𝑖𝑛😎
-   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ      
+   │❏ 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒋𝒐𝒊𝒏 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒈𝒓𝒐𝒖𝒑😎
+   │    ⚚𝖣𝗂𝗆𝗓𝖡𝗈𝗍𝗓 𝖬𝖣      
    └───────────────┈❦`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwwk`, buttonText: {displayText: 'Hi Beban👋'}, type: 1}
+{buttonId: `wkwwk`, buttonText: {displayText: '𝑶𝒌𝒆😃'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -204,7 +204,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─♬
-│「 𝙉𝙞𝙘𝙚 𝙗𝙚𝙗𝙖𝙣 𝙜𝙧𝙪𝙥 𝙞𝙡𝙖𝙣𝙜 𝙨𝙖𝙩𝙪😎 」
+│「 𝑮𝒂𝒖𝒔𝒂𝒉 𝒎𝒂𝒔𝒖𝒌 𝒍𝒂𝒈𝒊 𝒚𝒂 𝒌𝒐𝒏𝒕𝒐𝒍! 」
 └┬♬ 「 @${xeonName.split("@")[0]}  」
    │❏  𝑳𝒆𝒇𝒕 
    │⚘ ${metadata.subject}
@@ -218,7 +218,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText:'𝐷𝑎𝑑𝑎ℎ 𝐵𝑒𝑏𝑎𝑛😴'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText:'𝑫𝒂𝒅𝒂𝒉 𝒌𝒐𝒏𝒕𝒐𝒍😴'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
